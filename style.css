@@ -1,14 +1,1 @@
-/* Estilo para o cabeçalho */
-header {
-    display: flex;
-    justify-content: center;  /* Centraliza horizontalmente */
-    align-items: center;      /* Centraliza verticalmente */
-    height: 100px;            /* Ajuste a altura do cabeçalho conforme necessário */
-    background-color: #333;   /* Cor de fundo do cabeçalho */
-}
 
-/* Estilo para a imagem */
-header img {
-    max-width: 100%;  /* Garante que a imagem não ultrapasse o tamanho do cabeçalho */
-    height: auto;     /* Mantém a proporção da imagem */
-}
